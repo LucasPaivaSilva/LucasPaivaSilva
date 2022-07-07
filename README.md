@@ -1,13 +1,8 @@
 ### Hi there 👋
 
 <a href="https://github.com/LucasPaivaSilva/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPaivaSilva&repo=github-readme-stats" />
+  <img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" />
 </a>
-<a href="https://github.com/LucasPaivaSilva/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPaivaSilva&repo=convoychat" />
-</a>
-
-
 
 <!--
 **LucasPaivaSilva/LucasPaivaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
