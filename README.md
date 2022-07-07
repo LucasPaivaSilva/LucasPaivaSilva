@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Paiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasPaivaSilva&hide=contribs,prs)
+![Paiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasPaivaSilva&show_icons=true&theme=radical)
+
 
 
 
